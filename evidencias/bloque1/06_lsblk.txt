@@ -1,0 +1,5 @@
+NAME   FSTYPE FSVER LABEL UUID                                 FSAVAIL FSUSE% MOUNTPOINTS
+sda                                                                           
+├─sda1 vfat   FAT32       F9BB-B039                                 1G     1% /boot/efi
+└─sda2 ext4   1.0         ab58718c-6885-46f5-962d-d5a97b371f5f   94.3G     6% /
+sr0                                                                           
