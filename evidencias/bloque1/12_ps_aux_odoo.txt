@@ -1,0 +1,10 @@
+dhcpcd      4606  0.5  3.5 413580 214816 ?       Ssl  11:55   0:11 /usr/bin/python3 /usr/bin/odoo --db_host db-dev --db_port 5432 --db_user odoo --db_password 1234
+70          4684  0.0  0.2 179852 14076 ?        Ss   11:55   0:00 postgres: odoo postgres 172.19.0.3(48304) idle
+70          4705  0.0  0.6 185900 41772 ?        Ss   11:55   0:01 postgres: odoo odoo 172.19.0.3(48318) idle
+70          4793  0.0  0.2 179792 13180 ?        Ss   11:55   0:00 postgres: odoo postgres 172.19.0.3(56498) idle
+70         12261  0.0  0.4 182216 25136 ?        Ss   12:21   0:00 postgres: odoo odoo 172.19.0.3(41138) idle
+70         12262  0.0  0.4 182840 30440 ?        Ss   12:21   0:00 postgres: odoo odoo 172.19.0.3(41146) idle
+70         12263  0.0  0.3 181072 22924 ?        Ss   12:21   0:00 postgres: odoo odoo 172.19.0.3(41162) idle
+70         12264  0.0  0.3 181072 22900 ?        Ss   12:21   0:00 postgres: odoo odoo 172.19.0.3(41164) idle
+70         12265  0.0  0.3 181016 22264 ?        Ss   12:21   0:00 postgres: odoo odoo 172.19.0.3(41176) idle
+user       14594  0.0  0.0   6672  1920 pts/1    S+   12:31   0:00 grep --color=auto odoo

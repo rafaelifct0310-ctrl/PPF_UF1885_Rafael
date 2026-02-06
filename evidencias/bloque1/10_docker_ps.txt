@@ -1,0 +1,4 @@
+NAMES          IMAGE                STATUS                       PORTS
+odoo-dev       odoo:18.0            Up 28 minutes (healthy)      0.0.0.0:8069->8069/tcp, [::]:8069->8069/tcp, 8071-8072/tcp
+postgres-dev   postgres:16-alpine   Up 28 minutes (healthy)      0.0.0.0:5432->5432/tcp, [::]:5432->5432/tcp
+erpcrm-db      postgres:16-alpine   Up About an hour (healthy)   5432/tcp
