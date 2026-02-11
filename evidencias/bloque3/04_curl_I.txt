@@ -1,0 +1,10 @@
+HTTP/1.1 303 SEE OTHER
+Server: Werkzeug/3.0.1 Python/3.12.3
+Date: Tue, 10 Feb 2026 19:23:48 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 197
+Location: /odoo
+Set-Cookie: session_id=ZfOD1ucx4fD9iVMAZq9OCWIBAqhZ9d1uRd6g_91B4aFpWy37tldL5HdGqyencCgRbf-8Py1LgVSsiTr2MLYb; Expires=Wed, 10 Feb 2027 19:23:48 GMT; Max-Age=604800; HttpOnly; Path=/
+X-Content-Type-Options: nosniff
+Connection: close
+
